@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MobileCompany.iml" filepath="$PROJECT_DIR$/MobileCompany.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apple/apple.iml" filepath="$PROJECT_DIR$/apple/apple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/motorola/motorola.iml" filepath="$PROJECT_DIR$/motorola/motorola.iml" />
+    </modules>
+  </component>
+</project>
+
