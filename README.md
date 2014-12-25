@@ -25,10 +25,10 @@ There is an advertising company which have a basic app with a screen on which co
 
 **Outputs**
 *Application for APPLE*
-![Application for apple](https://lh5.googleusercontent.com/oZGCfsSpAO6ku9-aBF0JZn_u8YiNW-wQjCdiitSLwDEXJpUsY4OYyQmzfaKgVWQYaj-8iSQd3M8=w1511-h671)
+![Application for apple](https://raw.githubusercontent.com/hbb20/mobileCompany/master/app/src/main/res/drawable/Screenshot_2014-12-25-17-01-42.png)
 
 *Application for MOTOROLA*
-![Application for motorola](https://lh3.googleusercontent.com/LA17pMQgmYnxew9E_3wcllafbrmtETGGZ0MPPojsDNlHwjc6WH9trhn7-Twg5jQeBqH5JsNIOvw=w1511-h671)
+![Application for motorola](https://raw.githubusercontent.com/hbb20/mobileCompany/master/app/src/main/res/drawable/Screenshot_2014-12-25-17-10-03.png)
 
 
 
