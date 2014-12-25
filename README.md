@@ -33,5 +33,5 @@ There is an advertising company which have a basic app with a screen on which co
 
 
 **References**
-[Google guidelines](http://developer.android.com/tools/projects/index.html)
-[Stackover flow  question](http://stackoverflow.com/questions/16601299/how-to-create-a-library-project-in-android-studio-and-an-application-project-tha)
+1. [Google guidelines](http://developer.android.com/tools/projects/index.html)
+2. [Stackover flow  question](http://stackoverflow.com/questions/16601299/how-to-create-a-library-project-in-android-studio-and-an-application-project-tha)
